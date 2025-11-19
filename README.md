@@ -28,23 +28,6 @@ Before running this workflow, ensure you have:
 - Python 3.10 or higher
 - CUDA-compatible GPU (recommended)
 
-## Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-```
-
-2. Place the workflow JSON file in your ComfyUI workflows directory:
-```bash
-cp workflow.json /path/to/ComfyUI/workflows/
-```
-
-3. Install any required custom nodes (check the custom_nodes folder)
-
-4. Download required models and place them in appropriate directories
-
 ## Usage
 
 1. Open ComfyUI in your browser
