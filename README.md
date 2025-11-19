@@ -4,7 +4,7 @@ A custom ComfyUI workflow for AI image generation and manipulation.
 
 ## Workflow Overview
 
-![Workflow Overview](workflow.png)
+![Workflow Overview](workflow.jpg)
 
 This workflow demonstrates a complete pipeline for AI-powered image generation using ComfyUI's node-based interface.
 
